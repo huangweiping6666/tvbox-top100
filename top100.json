@@ -1,0 +1,761 @@
+{
+ "sites": [
+  {
+   "key": "b4d4414ba19c27a00bf907d34b47bc3d",
+   "name": "1-艾旦",
+   "type": 3,
+   "api": "https://www.lovedan.net/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "优质",
+   "name": "优质 | 采集",
+   "type": 3,
+   "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1
+  },
+  {
+   "key": "e750d6da567daae09c179aec32891d63",
+   "name": "35-最大",
+   "type": 3,
+   "api": "https://api.zuidapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "b31acfcd3fce887b832b0c47754159b5",
+   "name": "25-最大",
+   "type": 3,
+   "api": "https://zuidazy.co/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "senlinzy.com",
+   "name": "♥森林(直连)",
+   "type": 3,
+   "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "森林专场",
+   "name": "森林 | 采集",
+   "type": 3,
+   "api": "https://slapibf.com/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "e5df2aa0492ba0d57b047c1cdf009001",
+   "name": "66-360*",
+   "type": 3,
+   "api": "https://360zy.tv/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "360资源",
+   "name": "⏱┃三六┃资源",
+   "type": 3,
+   "api": "https://360zy.com/api.php/seaxml/vod/",
+   "searchable": 1,
+   "changeable": 1,
+   "categories": [
+    "国产剧",
+    "韩国剧",
+    "日本剧",
+    "电影片",
+    "连续剧",
+    "国产动漫",
+    "日韩动漫",
+    "综艺片",
+    "动漫片",
+    "动作片",
+    "喜剧片",
+    "爱情片",
+    "科幻片",
+    "恐怖片",
+    "剧情片",
+    "战争片",
+    "香港剧",
+    "欧美剧",
+    "记录片",
+    "台湾剧",
+    "海外剧",
+    "泰国剧",
+    "大陆综艺",
+    "港台综艺",
+    "日韩综艺",
+    "欧美综艺",
+    "欧美动漫",
+    "港台动漫",
+    "海外动漫"
+   ]
+  },
+  {
+   "key": "csp_xml_360",
+   "name": "✅360┃资源",
+   "type": 3,
+   "api": "https://360zy.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "categories": [
+    "爽文短剧",
+    "动作片",
+    "喜剧片",
+    "爱情片",
+    "科幻片",
+    "恐怖片",
+    "剧情片",
+    "战争片",
+    "国产剧",
+    "香港剧",
+    "韩国剧",
+    "欧美剧",
+    "NBA",
+    "惊悚片",
+    "家庭篇",
+    "历史片",
+    "古装片",
+    "悬疑片",
+    "犯罪片",
+    "灾难片",
+    "短片",
+    "动画片",
+    "纪录片",
+    "台湾剧",
+    "大陆综艺",
+    "国产动漫",
+    "日韩动漫",
+    "西部片"
+   ]
+  },
+  {
+   "key": "暴风采集",
+   "name": "🌪️暴风影音",
+   "type": 3,
+   "api": "https://app.bfzyapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "740e5d81e28de3ab97eab19f0ce6cf1d",
+   "name": "5-暴风",
+   "type": 3,
+   "api": "https://bfzyapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "16952cefcaeeda11b0bae2529a576e12",
+   "name": "11-暴风",
+   "type": 3,
+   "api": "http://by.bfzyapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "暴風",
+   "name": "影视 • 暴風[直连]",
+   "type": 3,
+   "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "暴风",
+   "name": "暴风",
+   "type": 3,
+   "api": "https://bfzyapi.com/api.php/provide/vod"
+  },
+  {
+   "key": "新浪资源",
+   "name": "新浪资源(切)",
+   "type": 3,
+   "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "豪华资源",
+   "name": "🎥┃豪华┃资源",
+   "type": 3,
+   "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "极速资源",
+   "name": "影视 • 极速[直连]",
+   "type": 3,
+   "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "火狐",
+   "name": "🦊火狐采集",
+   "type": 3,
+   "api": "https://hhzyapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "e743537b66dc4d8932f3a3800fdb7477",
+   "name": "37-豪华",
+   "type": 3,
+   "api": "https://www.haohuazy.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "d76e6a4dd10a8e038439df2458b56e9d",
+   "name": "61-极速",
+   "type": 3,
+   "api": "https://jszyapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "新浪",
+   "name": "新浪 | 采集",
+   "type": 3,
+   "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1
+  },
+  {
+   "key": "d09daf6b15ef9ed1f4fc5aff8b87e40a",
+   "name": "62-秒播",
+   "type": 3,
+   "api": "https://api.zeqaht.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "虎牙",
+   "name": "🐯虎牙采集",
+   "type": 3,
+   "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "gszy",
+   "name": "🎥┃光速┃资源",
+   "type": 3,
+   "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "2db4768781aebc9d0dd0de88a838ceb8",
+   "name": "26-红牛",
+   "type": 3,
+   "api": "https://www.hongniuzy3.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "b76a940e9785b5348840472552e70374",
+   "name": "32-红牛",
+   "type": 3,
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "金鹰",
+   "name": "金鹰 | 采集",
+   "type": 3,
+   "api": "https://jyzyapi.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1
+  },
+  {
+   "key": "速播",
+   "name": "速播 | 采集",
+   "type": 3,
+   "api": "https://subocaiji.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1
+  },
+  {
+   "key": "acd47931ed9a83e500f70bbb7c5c0c2b",
+   "name": "54-奇艺",
+   "type": 3,
+   "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "xiaoma_量子资源",
+   "name": "量子资源(切)",
+   "type": 3,
+   "api": "http://cj.lziapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "量子",
+   "name": "影视 • 量子[直连]",
+   "type": 3,
+   "api": "https://cj.lziapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "fb264ae3b34e829817f35b9b59ea9c36",
+   "name": "14-量子",
+   "type": 3,
+   "api": "https://lzizy4.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "6c22ca0c90b5e44cd830d7ca515efa9c",
+   "name": "16-量子",
+   "type": 3,
+   "api": "https://lzizy2.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "d2fee2579b5b9f122d45709ce08226fb",
+   "name": "12-量子",
+   "type": 3,
+   "api": "http://www.lzzy.tv/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "5d7bbc2b3aa0bfea3296946bf1ecda92",
+   "name": "17-量子",
+   "type": 3,
+   "api": "https://lzizy5.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "96eb0562e1d21f2ef02d4c5e5bbf9ea7",
+   "name": "20-量子",
+   "type": 3,
+   "api": "https://lzizy3.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "548c69066731916a1611dacb0e3b452c",
+   "name": "15-量子",
+   "type": 3,
+   "api": "https://lzizy8.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "4797280cffa831567a8b737ec684ac1d",
+   "name": "19-量子",
+   "type": 3,
+   "api": "http://lzizy.net/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "155zy.com",
+   "name": "♥155(直连)",
+   "type": 3,
+   "api": "https://155api.com/api.php/provide/vod/?ac=list",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "155资源站",
+   "name": "155 | 采集",
+   "type": 3,
+   "api": "https://155api.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "大奶子",
+   "name": "大奶子 | 采集",
+   "type": 3,
+   "api": "https://apidanaizi.com/api.php/provide/vod",
+   "searchable": 1,
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "changeable": 1
+  },
+  {
+   "key": "0be92695deec6ee83ef66a6fca1e88e4",
+   "name": "34-魔都",
+   "type": 3,
+   "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "77791ef659e8282af587e24e7b0c18a5",
+   "name": "33-墨斗",
+   "type": 3,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "xiaoma_电影天堂",
+   "name": "️天堂┃采集",
+   "type": 3,
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "电影天堂",
+   "name": "影视 • 电影天堂",
+   "type": 3,
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "39a5f7a3881f34fa6361cf1129caea4f",
+   "name": "41-番号资源",
+   "type": 3,
+   "api": "http://fhapi9.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "fhapi9.com",
+   "name": "★废柴(直连)",
+   "type": 3,
+   "api": "http://fhapi9.com/api.php/provide/vod/?ac=list",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "a758bb61ad33c8750290eb6483cb5fd5",
+   "name": "77-电影天堂*",
+   "type": 3,
+   "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "非凡",
+   "name": "影视 • 非凡[直连]",
+   "type": 3,
+   "api": "http://ffzy.tv/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "730acd683fc317fa1a584e5613e727f0",
+   "name": "2-非凡",
+   "type": 3,
+   "api": "http://cj.ffzyapi.com//api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "ad1116ca9a9b3057570066086c9c9698",
+   "name": "7-非凡",
+   "type": 3,
+   "api": "http://ffzy4.tv/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "73b5c89acc8a7c24118857fc514e9218",
+   "name": "6-非凡",
+   "type": 3,
+   "api": "http://ffzy3.tv/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "7b1d09368af7a13806e1a8e1e43850e5",
+   "name": "4-非凡",
+   "type": 3,
+   "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "a794df941b177a5eb1e4e991fb5eaccb",
+   "name": "9-非凡",
+   "type": 3,
+   "api": "http://www.ffzy.tv/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "08770a213d5c282a0fe20bf7648a9aba",
+   "name": "3-非凡",
+   "type": 3,
+   "api": "https://api.ffzyapi.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "c175280641d5263f0d0d9cbfab0162c3",
+   "name": "13-非凡",
+   "type": 3,
+   "api": "http://ffzy5.tv/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "ffzy.tv",
+   "name": "非凡2",
+   "type": 3,
+   "api": "https://ffzy.tv/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "非凡资源",
+   "name": "🥗┃非凡┃资源",
+   "type": 3,
+   "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "changeable": 1,
+   "categories": [
+    "动作片",
+    "喜剧片",
+    "科幻片",
+    "恐怖片",
+    "爱情片",
+    "剧情片",
+    "战争片",
+    "记录片",
+    "国产剧",
+    "欧美剧",
+    "香港剧",
+    "韩国剧",
+    "台湾剧",
+    "日本剧",
+    "海外剧",
+    "泰国剧",
+    "国产动漫",
+    "日韩动漫",
+    "欧美动漫",
+    "港台动漫",
+    "海外动漫",
+    "大陆综艺",
+    "港台综艺",
+    "日韩综艺",
+    "欧美综艺"
+   ]
+  },
+  {
+   "key": "非凡影视",
+   "name": "✅非凡┃影视",
+   "type": 3,
+   "api": "http://cj.ffzyapi.com//api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "categories": [
+    "短剧",
+    "动作片",
+    "喜剧片",
+    "科幻片",
+    "恐怖片",
+    "爱情片",
+    "剧情片",
+    "战争片",
+    "记录片",
+    "国产剧",
+    "欧美剧",
+    "香港剧",
+    "韩国剧",
+    "台湾剧",
+    "日本剧",
+    "海外剧",
+    "泰国剧",
+    "国产动漫",
+    "日韩动漫",
+    "欧美动漫",
+    "港台动漫",
+    "海外动漫",
+    "大陆综艺",
+    "港台综艺",
+    "日韩综艺",
+    "欧美综艺"
+   ]
+  },
+  {
+   "key": "3b413ffe4c72f0b8f99ca6a868075d99",
+   "name": "38-U酷",
+   "type": 3,
+   "api": "https://api.ukuapi88.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "didizy.com",
+   "name": "♥滴滴(直连)",
+   "type": 3,
+   "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "滴滴",
+   "name": "滴滴 | 采集",
+   "type": 3,
+   "api": "https://api.ddapi.cc/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "jkunzy.com",
+   "name": "💕jkun(直连)",
+   "type": 3,
+   "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "dcbb4b646ce9e6b0c0565925f2008037",
+   "name": "40-橘猫采集",
+   "type": 3,
+   "api": "http://www.zitv.cc/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "建安采集",
+   "name": "影视 • 建安",
+   "type": 3,
+   "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "lebozy.com",
+   "name": "💕乐播(直连)",
+   "type": 3,
+   "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "乐播",
+   "name": "乐播 | 采集",
+   "type": 3,
+   "api": "https://lbapi9.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "创享",
+   "name": "创享 | 采集",
+   "type": 3,
+   "api": "https://ys.cxkjg.cn/api/provide/vod/"
+  },
+  {
+   "key": "fbfa5eed414e1f6137f2496a68005ef5",
+   "name": "43-HG",
+   "type": 3,
+   "api": "https://hong.hgyx.vip/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "041c843aea19129a4716a6db4ab444ff",
+   "name": "45-91视频",
+   "type": 3,
+   "api": "https://91av.cyou/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "火速",
+   "name": "火速 | 采集",
+   "type": 3,
+   "api": "https://api.huosuapi.cc/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "7de11eca32356644ce7da016fa2412e5",
+   "name": "42-玉兔资源(切片)",
+   "type": 3,
+   "api": "https://apiyutu.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "小乐",
+   "name": "小乐｜星源",
+   "type": 3,
+   "api": "https://xy.183933.xyz/php/ls.php/vod",
+   "playUrl": "http://8.155.50.80/xiayexk.php?url=",
+   "changeable": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "xiaoma_百度",
+   "name": "百度",
+   "type": 3,
+   "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "ef763a837d779012d8451f816f881188",
+   "name": "72-百度",
+   "type": 3,
+   "api": "https://api.apibdzy.com/api.php/provide/vod/",
+   "ext": null,
+   "jar": null
+  },
+  {
+   "key": "kuwo",
+   "name": "酷我｜音乐",
+   "type": 3,
+   "api": "https://xy.183933.xyz/php/kuwo.php/provide/vod",
+   "playUrl": "json:https://183933.xyz/xiaye.php?url=",
+   "searchable": 1,
+   "changeable": 1
+  }
+ ],
+ "lives": [],
+ "parses": [],
+ "flags": [
+  "YouProxy",
+  "qiyi",
+  "qq",
+  "youku",
+  "mgtv"
+ ],
+ "wallpaper": "",
+ "spider": ""
+}
